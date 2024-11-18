@@ -1,4 +1,4 @@
-# Segmentation_fire
+# Global Wildfire Detection
 Global Wildfire Detection Challenge🌋 :  Leveraging AI for Enhanced Satellite Imagery Analysis
 ![train_image](https://github.com/NJiHyeon/Segmentation_fire/assets/100822150/d752f3aa-0926-4f37-a0e0-bd87b6dc0ee3)
 
